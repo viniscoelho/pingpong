@@ -1,0 +1,10 @@
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\bin\Debug\PingPong.exe.config
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\bin\Debug\PingPong.exe
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\bin\Debug\PingPong.pdb
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\bin\Debug\PingPong.xml
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\obj\Debug\PingPong.pongMain.resources
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\obj\Debug\PingPong.Resources.resources
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\obj\Debug\PingPong.vbproj.GenerateResource.Cache
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\obj\Debug\PingPong.exe
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\obj\Debug\PingPong.xml
+c:\users\amaro\documents\visual studio 2013\Projects\PingPong\obj\Debug\PingPong.pdb
